@@ -1,0 +1,10 @@
+.NET está na versão .NET 5
+.NET framwork já não será mais atualizado. O foco é o Azure e .NET Core
+
+-- O professor recomenda, para hoje, estudar .NET Core e C#. Caso queira desenvolver para mobile, utilizar o Xamarin. 
+
+Hoje com tudo multiplataforma e open source, o .NET está crescendo cada vez mais.
+
+https://dotnetfoundation.org
+https://docs.microsoft.com/en-us/dotnet/
+https://dotnet.microsoft.com/download

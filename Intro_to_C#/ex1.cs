@@ -1,5 +1,4 @@
 using System;
-
 class Desafio {
     static void Main() {
         int limit = Int32.Parse(Console.ReadLine());
@@ -17,4 +16,3 @@ class Desafio {
         }
     }
 }
-
