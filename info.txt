@@ -8,3 +8,6 @@ Hoje com tudo multiplataforma e open source, o .NET está crescendo cada vez mai
 https://dotnetfoundation.org
 https://docs.microsoft.com/en-us/dotnet/
 https://dotnet.microsoft.com/download
+https://azure.microsoft.com/pt-br/
+https://mono-project.com
+https://dotnet.microsoft.com/apps/xamarin
