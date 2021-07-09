@@ -11,3 +11,5 @@ https://dotnet.microsoft.com/download
 https://azure.microsoft.com/pt-br/
 https://mono-project.com
 https://dotnet.microsoft.com/apps/xamarin
+
+Aplicação CONSOLE é uma aplicação que é executada via terminal.
