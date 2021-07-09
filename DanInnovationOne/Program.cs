@@ -8,7 +8,9 @@ namespace DanInnovationOne
         {
             int teste = 0;
             while(teste <= 100){
-                Console.WriteLine(teste);
+                if(teste % 2 == 0){
+                    Console.WriteLine(teste);
+                }
                 teste++;
             }
         }
