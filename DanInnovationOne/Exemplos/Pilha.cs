@@ -1,6 +1,6 @@
 using System;
 
-namespace DanInnovationOne
+namespace DanInnovationOne.Exemplos
 {
     public class Pilha
     {
