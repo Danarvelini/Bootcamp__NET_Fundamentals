@@ -4,15 +4,15 @@ namespace DanInnovationOne
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int teste = 0;
-            while(teste <= 100){
-                if(teste % 2 == 0){
-                    Console.WriteLine($"Este é o número {teste}");
-                }
-                teste++;
-            }
+            var s = new Pilha();
+            s.Empilha(1);
+            s.Empilha(10);
+            s.Empilha(100);
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
         }
     }
 }

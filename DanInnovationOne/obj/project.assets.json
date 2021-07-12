@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\danih\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Bootcamps\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj",
+      "projectUniqueName": "C:\\GitHub\\BOOTCAMP\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj",
       "projectName": "DanInnovationOne",
-      "projectPath": "C:\\GitHub\\Bootcamps\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Bootcamps\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\obj\\",
+      "projectPath": "C:\\GitHub\\BOOTCAMP\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj",
+      "packagesPath": "C:\\Users\\danih\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\BOOTCAMP\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\danih\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

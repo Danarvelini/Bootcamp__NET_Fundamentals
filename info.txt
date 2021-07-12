@@ -13,3 +13,11 @@ https://mono-project.com
 https://dotnet.microsoft.com/apps/xamarin
 
 Aplicação CONSOLE é uma aplicação que é executada via terminal.
+
+Os principais conceitos organizacionais em C# são:
+- Programas (consistem em um ou mais arquivos)
+- namespaces
+- tipos (classes e interfaces)
+- membros (campos, métodos, propriedades e eventos)
+- assemblies (são as DLLs)
+
