@@ -18,6 +18,12 @@ https://dotnet.microsoft.com/apps/xamarin
 
 Aplicação CONSOLE é uma aplicação que é executada via terminal.
 
+## Truques
+
+* Pressionar ao selecionar um método para ser direcionado à sua origem
+* Pressionar F1 para abrir os comandos do VScode
+*
+
 ## Conceitos
 
 Os principais conceitos organizacionais em C# são:
@@ -31,7 +37,7 @@ Os principais conceitos organizacionais em C# são:
 
 Classes são os tipos mais fundamentais de C#. Uma classe é uma estrutura de dados que combina estado (campos) e ações (métodos)
 
-Objetos são instâncias de uma classe. As classes suportam herança e polimorfismo, mecanismos pelos quais as classes derivadas podem estender e especializas as classes base.
+**Objetos são instâncias de uma classe**. As classes suportam herança e polimorfismo, mecanismos pelos quais as classes derivadas podem estender e especializas as classes base.
 
 Instâncias de classes (objetos) são criadas usando o operador new, que aloca memória para uma nova instância, chama um construtor para inicializar a instância e retorna uma referencia à instância:
 * Ponto p1 = new Ponto(0,0);
@@ -51,7 +57,11 @@ Cada membro possui uma acessibilidade associada, que controla as regiões (publi
 Podemos especificar uma classe, que herdará os membros de outra classe base.
 Omitir uma especificação de classe base é o mesmo que derivar do tipo object.
 
+Por enquanto, no C#, é possível herdar apenas uma classe.
+
 ### Métodos
 
 É quem determina as ações que uma classe ou objeto poderá realizar.
 Uma boa pratica nomear os métodos como verbos, e suas propriedades como substantivos.
+
+Método **virtual** é o método que permite, através do **override**, sobreescrever sua ação.
