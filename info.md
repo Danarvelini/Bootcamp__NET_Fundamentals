@@ -65,3 +65,25 @@ Por enquanto, no C#, é possível herdar apenas uma classe.
 Uma boa pratica nomear os métodos como verbos, e suas propriedades como substantivos.
 
 Método **virtual** é o método que permite, através do **override**, sobreescrever sua ação.
+
+### Structs
+
+Como as classes, as structs são estruturas de dados que podem conter membros de dados e membros de ação, mas , diferentemente das classes, as structs são tipos de valor e não requerem alocação de **heap** (qque gera a referencia da posição).
+
+**stack** é o local que fica armazenada as variáveis.
+
+Uma variável de um tipo de struct armazena diretamente os dados da estrutura, enquanto uma variável de um de classe armazena uma referência a um objeto alocado na memória.
+
+Structs não aceitam herança determinada pelo desenvolvedor.
+São úteis para pequenas estruturas de dados que possuem semântica de valor: números complexos, pontos em um sistema de coordenadas ou pares de chave-valor em um dicionário são bons exemplos de utilização.
+
+O uso de structs faz menor uso de alocação de memória, e isso é uma vantagem.
+
+Construtores de struct são chamados com o operador new, semelhante a um construtor de classe, mas em vez de alocar dinamicamente um objeto no heap gerenciado e retornar uma referencia a ele, como as classes, o construtor struct simplesmente retorna o proprio valor struct (normalmente em um local temporário na stack), e esse valor é copado conforme necessário
+https://www.eximiaco.tech/pt/category/fundamentos
+
+### Interfaces
+
+
+
+### Enums
