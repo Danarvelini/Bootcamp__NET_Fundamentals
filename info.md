@@ -70,8 +70,9 @@ Método **virtual** é o método que permite, através do **override**, sobreesc
 
 Como as classes, as structs são estruturas de dados que podem conter membros de dados e membros de ação, mas , diferentemente das classes, as structs são tipos de valor e não requerem alocação de **heap** (qque gera a referencia da posição).
 
-**stack** é o local que fica armazenada as variáveis.
+**stack** é o local que fica armazenada as variáveis struct.
 
+São do tipo valor.
 Uma variável de um tipo de struct armazena diretamente os dados da estrutura, enquanto uma variável de um de classe armazena uma referência a um objeto alocado na memória.
 
 Structs não aceitam herança determinada pelo desenvolvedor.
@@ -84,6 +85,16 @@ https://www.eximiaco.tech/pt/category/fundamentos
 
 ### Interfaces
 
-
+Ela é como um contrato que pode ser implementado por classes e structs
+Uma interface pode conter métodos, propriedades, eventos e indexadores
+A interface não fornece implementações dos membros, somente suas assinaturas. As interfaces podem empregar herança múltipla
+A ideia aqui é implementar algo que obriga os que herdarem este algo, que possuem todos os métodos de sua origem.
 
 ### Enums
+
+É um tipo de valor distinto com um conjunto de constantes nomeadas.
+Fornecem significados semanticos e valores discretos.
+Você define enumerações quando precisa definir um tipo que pode ter um conjunto de valores discretos. Eles usam um dos tipos de valor integral como armazenamento subjacente. Eles fornecem significado semântico aos valores discretos.
+
+Cada tipo de enum possui um tipo integral correspondente chamado tipo subjacente do tipo de enum.
+Um tipo de enumeração que não declara explicitamente um tipo subjacente tem um tipo subjacente int.
