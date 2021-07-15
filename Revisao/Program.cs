@@ -55,7 +55,25 @@ namespace Revisao
                             }
                         }
                         mediaGeral = notaTotal / numDeAlunos;
-                        Console.WriteLine($"MEDIA GERAL: {mediaGeral}");
+                        Conceito conceitoGeral;
+                        
+                        if(0 < mediaGeral && mediaGeral < 2){
+                            conceitoGeral = Conceito.E;
+                        }
+                        else if(mediaGeral < 4){
+                            conceitoGeral = Conceito.D;
+                        }
+                        else if(mediaGeral < 6){
+                            conceitoGeral = Conceito.C;
+                        }
+                        else if(mediaGeral < 8){
+                            conceitoGeral = Conceito.B;
+                        }
+                        else{
+                            conceitoGeral = Conceito.A;
+                        }
+                        
+                        Console.WriteLine($"MEDIA GERAL: {mediaGeral} - CONCEITO: {conceitoGeral}");
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
