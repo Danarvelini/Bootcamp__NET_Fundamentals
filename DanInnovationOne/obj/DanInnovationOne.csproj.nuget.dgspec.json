@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\Bootcamps\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj": {}
+    "C:\\GitHub\\BOOTCAMP\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\Bootcamps\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj": {
+    "C:\\GitHub\\BOOTCAMP\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\Bootcamps\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj",
+        "projectUniqueName": "C:\\GitHub\\BOOTCAMP\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj",
         "projectName": "DanInnovationOne",
-        "projectPath": "C:\\GitHub\\Bootcamps\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\Bootcamps\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\obj\\",
+        "projectPath": "C:\\GitHub\\BOOTCAMP\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\DanInnovationOne.csproj",
+        "packagesPath": "C:\\Users\\danih\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\BOOTCAMP\\Bootcamp__NET_Fundamentals\\DanInnovationOne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\danih\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
