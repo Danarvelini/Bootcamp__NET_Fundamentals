@@ -97,3 +97,53 @@ Sabe identificar diversas LP, linguagens de marcação e conteúdos multimedia. 
 
 **Página estática** e **dinâmica**. As partes independentes do site são funções dinamicas, que fornecem interações dinamicas. Já as paginas estáticas não possuem este dinamismo.
 
+Hoje em dia é muito coisas Apps como uma versão diferente e baseada no site.
+A termologia está se aproximando uma da outra.
+
+## Web server
+
+É onde fica guardada nossas informações e dados.
+Existem 2 tipos:
+- Estático. É um servidor físico onde são armazenados arquivos, softwares e/ou banco de dados
+- Dinâmico. Se refere aos softwares que estão presentes no servidor físico. Serve para Armazenamento de arquivos (**file server)**, Aplicações (**application server**), Banco de dados (**database**), e tudo junto e misturado.
+
+## Stacks
+
+São pilhas de tecnologia, conjunto de softwares necessários e suficientes para executar um aplicativo/programa.
+Ambientes e ferramentas de interação com o app/sw.
+
+Os líderes de projetos precisam saber o que a empresa é capaz de fazer, precisam das informações das equipes de desenvolvimento.
+Os desenvolvedores precisam saber as limitações e capacidades das ferramentas e ambientes que têm disponíveis.
+Sistemas, bancos de dados, linguagens de programação, protocolos de comunicação.
+
+É muito relacionado também com:
+- As estratágias de negócios
+- Maturidade dos funcionários
+- Contratações, planos de mitigações de riscos, aumento da capacidade, uso dos dados
+
+### Front-end
+O que é isso e com que trabalha? 
+- "Parte da frente"
+- Site, software, aplicativo, web service
+- Interface, UI, UX
+- Lógica de programação, HTMl, CSS, jQuery, JS, AJAX, PHP, Bootstrap e outros frameworks
+
+### Back-end
+O que é isso e com que trabalha?
+- "Parte de trás"
+- Servidores, banco de dados
+- "meio-de-campo" entre interface e bancos de dados, regras de negócios e validações
+- MySQL, Oracle, protocolos de comunicação, PHP, Java, Node.js, e outros.
+
+### Fullstack
+O que é isso e com que trabalha?
+- Professional que sabe trabalhar em todas as camadas das tecnologias de front-end e back-end de desenvolvimento e execução do software
+
+## Linguagens de programação
+
+Principais linguagens:
+- JavaScript. 
+- PHP.
+- .NET C#. 
+- Python. 
+
