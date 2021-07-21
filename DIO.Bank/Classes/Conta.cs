@@ -21,9 +21,30 @@ namespace DIO.Bank
                 Console.WriteLine("Saldo insuficiente");
                 return false;
             }
-            else{
-                return true;
+            this.Saldo -= valorSaque;
+            Console.WriteLine($"Saldo atual da conta {this.Nome} é {this.Saldo}");
+            return true;
+        }
+        
+        public void Depositar(double valorDeposito){
+            this.Saldo += valorDeposito;
+            Console.WriteLine($"Saldo atual da conta {this.Nome} é {this.Saldo}");
+        }
+        
+        public void Transferir(double valorTransferir, Conta contaDestino) {
+            if(this.Sacar(valorTransferir)){
+                contaDestino.Depositar(valorTransferir);
             }
+        }
+
+        public override string ToString()
+        {
+            string retorno = "";
+            retorno += $"TipoConta: {this.TipoConta} | ";
+            retorno += $"Nome: {this.Nome} | ";
+            retorno += $"Saldo: {this.Saldo} | ";
+            retorno += $"Crédito: {this.Credito} | ";            
+            return retorno;
         }
     }
 }
