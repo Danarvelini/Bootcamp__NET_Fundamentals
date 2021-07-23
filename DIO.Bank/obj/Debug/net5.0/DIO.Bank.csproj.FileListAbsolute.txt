@@ -1,0 +1,16 @@
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\GitHub\Bootcamps\Bootcamp__NET_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
