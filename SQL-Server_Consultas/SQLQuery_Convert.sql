@@ -1,0 +1,1 @@
+select *, convert(varchar, DataSolicitacao) from Pedido

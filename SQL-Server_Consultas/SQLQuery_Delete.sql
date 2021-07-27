@@ -1,0 +1,1 @@
+delete from clientes where codigo in (2,3,5)

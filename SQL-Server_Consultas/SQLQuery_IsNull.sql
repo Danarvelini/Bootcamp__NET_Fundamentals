@@ -1,0 +1,1 @@
+select isnull(DataCriacao, getdate()), * from clientes

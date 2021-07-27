@@ -1,0 +1,1 @@
+update clientes set codigo = 7, nome = 'Palito' where TipoPessoa = 'J';
